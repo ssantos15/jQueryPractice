@@ -1,0 +1,38 @@
+.niners-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.cliackable:hover {
+  text-decoration: underline;
+}
+
+.clickableTwo {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.cliackableTwo:hover {
+  text-decoration: underline;
+}
+
+.fade-out {
+  display: none;
+}
+
+.clickableThree {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.cliackableThree:hover {
+  text-decoration: underline;
+}
+
+.slide-up {
+  display: none;
+}
